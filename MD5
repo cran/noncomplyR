@@ -1,0 +1,15 @@
+74b557bf33adde1adf6ef470652c5010 *DESCRIPTION
+578847d002fafbb0ba4c78f4b59159c3 *NAMESPACE
+002a5c29183b579f2c5dd9af7dc05f5f *R/data_aug_functions.R
+ca5076293c48b8e2694800b6561cf2f4 *R/noncomplyR.r
+33a311917f804a378d8b4529f6298b6d *build/vignette.rds
+aa0e4f0b81541cbe6ec227a223642c50 *data/vitaminA.txt
+67c17a73f74ffdb255b9de6c8dd42e83 *inst/doc/noncomplyR.R
+c9b4ee1d19cf5f8efc7b853b7bed70d5 *inst/doc/noncomplyR.Rmd
+d01ad0f454f4babe7edecc265225535f *inst/doc/noncomplyR.html
+5252b3ce953991a5bb1292260b8e126d *man/cace.Rd
+e8c4dfe41298b79ec2b58c626b7b67c4 *man/compliance_chain.Rd
+fbd3f2e7de900a8d6d6b073f4230898e *man/noncomplyR.Rd
+0a630788cc8419a09660c04e2b2f9520 *man/summarize_chain.Rd
+7eb36111dfe9b7e25202a45371268246 *man/vitaminA.Rd
+c9b4ee1d19cf5f8efc7b853b7bed70d5 *vignettes/noncomplyR.Rmd
